@@ -1,0 +1,757 @@
+.homebody{
+    
+    font-family: sans-serif;
+}
+
+.LOGO {
+    float: left;
+    Width: 50px;
+    Height: 50px;
+}
+sub {
+    font-weight: 20px;
+    font-size: 18px;
+    text-align: inherit;
+    font-family: sans-serif;
+    font-size: 17.5px;
+}
+img {
+    float: right;
+}
+
+hr{
+    border: 1px solid #ebebeb;
+    margin-bottom: 0px;
+}
+h5{
+    text-align: 200px
+}
+.TB {
+        width:86px;
+    height:31px;
+    float: right;
+}
+
+.AnnouncementsDiv{
+    
+  margin-left: 50px;
+  float:left;
+  line-height: 23px;
+  border: 1px solid lightgray;
+  background-color: white;
+  border-radius: 8px;
+  text-align: center;
+  width: 300px;
+  height: 70px;
+
+
+}
+
+.announcement_Picture {
+
+        float: left;
+        width: 93px;
+        height: 70px;
+        border-top-left-radius: 8px;
+        border-bottom-left-radius: 8px;
+    
+}
+.announcements {
+    
+        text-decoration:none;
+        color:black;
+    font-size: 18px;
+    padding: 10px;
+    margin-bottom: 10px;
+    vertical-align: middle;
+    padding-right: 50px; 
+    font-size: 16px;    
+    
+}
+
+.CalendarDiv
+    {
+  margin-left: 380px;
+  line-height: 70px;
+  border: 1px solid lightgray;
+  background-color: white;
+  border-radius: 8px;
+  text-align: center;
+  width: 300px;
+  height: 70px;
+
+}
+
+.calendar {
+    
+        text-decoration:none;
+        color:black;
+    font-size: 18px;
+    padding: 10px;
+    margin-bottom: 10px;
+    vertical-align: middle;
+    padding-right: 90px;
+    font-size: 16px;
+}
+
+.PRDiv
+    {
+  margin-left: 50px;
+  float:left;
+  margin-top: 30px;
+  line-height: 70px;
+  border: 1px solid lightgray;
+  background-color: white;
+  border-radius: 8px;
+  text-align: center;
+  width: 300px;
+  height: 70px;
+  
+
+}
+
+.PR {
+    
+    text-decoration:none;
+    color:black;
+    font-size: 18px;
+    margin-bottom: 10px;
+    vertical-align: middle;
+    padding-right:40px;
+    font-size: 16px;
+    
+}
+
+.PSDiv
+    {
+  margin-left: 380px;
+  margin-top: 30px;
+  line-height: 70px;
+  border: 1px solid lightgray;
+  background-color: white;
+  border-radius: 8px;
+  text-align: center;
+  width: 300px;
+  height: 70px;
+
+}
+
+.PS {
+    
+    text-decoration:none;
+    color:black;
+    font-size: 18px;
+    margin-bottom: 10px;
+    vertical-align: middle;
+    padding-right: 10px;
+    font-size: 16px;
+}
+
+.TTDiv
+    {
+  margin-left: 50px;
+  float:left;
+  margin-top: 30px;
+  line-height: 70px;
+  border: 1px solid lightgray;
+  background-color: white;
+  border-radius: 8px;
+  text-align: center;
+  width: 300px;
+  height: 70px;
+
+}
+
+.TT {
+    
+    text-decoration:none;
+    color:black;
+    font-size: 18px;
+    padding: 10px;
+    margin-bottom: 10px;
+    vertical-align: middle;
+    padding-right: 90px;
+    font-size: 16px;
+}
+
+.ATTENDiv
+    {
+  margin-left: 380px;
+  margin-top: 30px;
+  line-height: 70px;
+  border: 1px solid lightgray;
+  background-color: white;
+  border-radius: 8px;
+  text-align: center;
+  width: 300px;
+  height: 70px;
+
+}
+
+.ATTEN {
+    
+    text-decoration:none;
+    color:black;
+    font-size: 18px;
+    padding: 10px;
+    margin-bottom: 10px;
+    vertical-align: middle;
+    padding-right: 80px;
+    font-size: 16px;
+}
+
+.SPRDiv {
+    
+  margin-left: 50px;
+  float:left;
+  margin-top: 30px;
+  line-height: 70px;
+  border: 1px solid lightgray;
+  background-color: white;
+  border-radius: 8px;
+  text-align: center;
+  width: 300px;
+  height: 70px;
+    
+}
+
+.SPR{
+    
+    text-decoration:none;
+    color:black;
+    font-size: 18px;
+    padding: 10px;
+    margin-bottom: 10px;
+    vertical-align: middle;
+    padding-right: 50px;
+    font-size: 16px;
+}
+
+.SERVDiv
+    {
+  margin-left: 380px;
+  margin-top: 30px;
+  line-height: 70px;
+  border: 1px solid lightgray;
+  background-color: white;
+  border-radius: 8px;
+  text-align: center;
+  width: 300px;
+  height: 70px;
+
+}
+
+.Serv {
+    
+    text-decoration:none;
+    color:black;
+    font-size: 18px;
+    padding: 10px;
+    margin-bottom: 10px;
+    vertical-align: middle;
+    padding-right: 100px;
+    font-size: 16px;
+}
+
+.Right {
+    
+    background-color: #f9f9f9;
+    float: right;
+    border: 1px solid #f9f9f9;
+    height: 558px;
+    width: 640px;
+}
+
+.Scroll{
+    
+    background-color: #f1f1f1;
+    height: 558px;
+    width: 15px;
+    margin-top: 0px;
+    float: left;
+    margin-left: 0px;
+
+}
+
+.wheel{
+    background-color: #c1c1c1;
+    width: 12px;
+    height: 200px;
+    margin-top: 10px;
+    margin-left: 1.4px;
+    margin-right: 1px;
+}
+
+.TasksDiv{
+    
+    border: 1px solid lightgray;
+    border-radius: 8px;
+    width: 500px;
+    height: 500px;
+    margin-top: 40px;
+    margin-left: 80px;
+    margin-bottom: 0px;
+    background-color: white;  
+    text-align: left;
+}
+
+.TasksText{
+    
+    float:left;
+    text-align: left;
+    margin-top:26px;
+    margin-left: 30px;
+    font-size: 18px;
+    font-family: "Noto Sans Nandinagari", sans-serif;
+    font-weight: 400px;
+}
+
+.ViewAll{
+    
+    color: #008392;
+    float: right;
+    margin-right: 30px;
+    margin-top: 25px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+.Navigation{
+
+    text-align: none;
+    font-size: 17px;
+    
+}
+
+.Navigation1{
+    
+    text-decoration: none;
+    color: black;
+    margin-left: 60px;
+    text-align: center;
+}
+
+.Navigation2{
+    
+    text-decoration: none;
+    color: black;
+    margin-left: 57px;
+    text-align: center;
+}
+
+.Navigation3{
+    
+    text-decoration: none;
+    color: black;
+    margin-left: 57px;
+    text-align: center;
+}
+
+.TaskIcon{
+    
+    width: 50px;
+    height: 50px;
+    border-radius: 8px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.DDFA{
+    
+    margin-left: 20px;
+    font-size: 17px;
+    float: left;
+}
+
+.TasksMiddleHome{
+    
+    width: 450px;
+}
+
+.Grade{
+    
+    font-size: 10px;
+    margin-left: 100px;
+    margin-top: 0px;
+    text-decoration: none;
+    color: black;
+    width: 100px;
+
+}
+
+.Date{
+    
+    font-size: 10px;
+    float: right;
+    margin-right: 15px;
+    margin-top: 1px;
+    color: #717171;
+}
+
+.Back{
+    
+    margin-top: 15px;
+    color: black;
+    border-color: black;
+    float: left;
+}
+
+.AnnounceTitle{
+    
+    Margin-left: 20px;
+    font-family: sans-serif;
+    font-size: 17px;
+}
+
+.search{
+
+    float: right;
+    margin-right: 14px;
+    background-color: white;
+    border-radius: 50px;
+    border: 1px solid lightgray;
+    padding: 2px;
+    
+}
+
+.searchbar{
+    
+    float: right;
+    width: 80px;
+    height: 20px;
+    text-align: center;
+    margin-top: 4px;
+}
+
+.searchbar2{
+    
+    width: 80px;   
+}
+
+.AnnounceLeft{
+    
+    float: left;
+    background-color: #f9f9f9;
+    width: 500px;
+    height: 560px;
+}
+
+.announce1title{
+    
+    float: left;
+    margin-left: 50px;
+    margin-top: 27px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.message{
+    
+    float: left;
+    margin-left: 55px;
+    font-family: sans-serif;
+    font-size: 14.7px;
+}
+
+
+.AnnouncementTeacherIcon{
+    
+    float: right;
+    margin-top: 27px;
+    height: 30px;
+    margin-right: 30px;
+    background-color: lightgray;
+    border-radius: 50px;    
+}
+
+
+.Scroll2{
+    
+    background-color: #f1f1f1;
+    height: 558px;
+    width: 15px;
+    margin-top: 0px;
+    float: right;
+    margin-left: 0px;
+
+}
+
+.wheel2{
+    background-color: #c1c1c1;
+    width: 12px;
+    height: 200px;
+    margin-top: 10px;
+    margin-left: 1.4px;
+    margin-right: 1px;
+}
+
+.Teacher1Announcements{
+    
+    float: left;
+    margin-top: 40px;
+    margin-left: 20px;
+    width: 25px;
+}
+
+.Text1Announcements{
+    
+    float: right;
+    margin-top: 40px;
+    font-size: 16px;
+    margin-right: 200px;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.Text1BelowAnnouncements{
+    margin-left: 60px;
+    margin-top: 50px;
+    font-size: 10px;
+    font-family: sans-serif;
+    
+}
+
+.Text2Announcements{
+    
+    float: right;
+    margin-top: 30px;
+    font-size: 16px;
+    margin-right: 225px;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.Text2BelowAnnouncements{
+    margin-left: 60px;
+    margin-top: 40px;
+    font-size: 10px;
+    font-family: sans-serif;
+}
+
+.Teacher2Announcements{
+    
+    float: left;
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 25px;
+}
+
+.Text3Announcements{
+    
+    float: right;
+    margin-top: 30px;
+    font-size: 16px;
+    margin-right: 220px;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.Text3BelowAnnouncements{
+    margin-left: 65px;
+    margin-top: 40px;
+    font-size: 10px;
+    font-family: sans-serif;
+}
+
+.Teacher3Announcements{
+    
+    float: left;
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 25px;
+}
+
+.SelectedAnnouncement{
+    
+    background-color: #d7d7d7;
+    height: 108px;
+}
+
+.SELECTED{
+    
+    float: left;
+    width: 2px;
+    height: 105px;
+    background-color: deeppink;
+    border: 1px solid deeppink;
+}
+
+
+.Text4Announcements{
+    
+    float: right;
+    margin-top: 30px;
+    font-size: 16px;
+    margin-right: 230px;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.Text4BelowAnnouncements{
+    margin-left: 65px;
+    margin-top: 40px;
+    font-size: 10px;
+    font-family: sans-serif;
+}
+
+.Teacher4Announcements{
+    
+    float: left;
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 25px;
+}
+
+
+.Text5Announcements{
+    
+    float: right;
+    margin-top: 30px;
+    font-size: 16px;
+    margin-right: 225px;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.Text5BelowAnnouncements{
+    margin-left: 60px;
+    margin-top: 40px;
+    font-size: 10px;
+    font-family: sans-serif;
+}
+
+.Teacher5Announcements{
+    
+    float: left;
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 25px;
+}
+
+.TypeofTask{
+    
+    background-color: #f9f9f9;
+    width: 230px;
+    height: 32px;
+    float: left;
+    margin-left: 15px;
+    margin-top: 15px;
+    border: 1px solid #e5e5e5;
+    border-radius: 3px;
+}
+
+.TODOTASKS{
+    
+    width: 100px;
+    background-color: white;
+    height: 23px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 3px;
+    border: 1px solid #ebebeb;
+    text-align: center;
+    line-height: 23px;
+    border-radius: 3px;
+    font-family: sans-serif;
+    font-size: 15px;
+    
+}
+
+.donetasks{
+    
+    width: 95px;
+    background-color: transparent;
+    height: 23px;
+    float: right;
+    margin-right: 15px;
+    margin-top: 3px;
+    border: none;
+    text-align: center;
+    line-height: 25px;
+    border-radius: 3px;
+    color: #6a6a6a;
+    font-family: sans-serif;
+    font-size: 15px;
+    
+}
+
+
+.LeftBarTasks{
+    
+    border-right: 1px solid #ebebeb;
+    width: 270px;
+    height: 555px;
+    float: left;
+}
+
+.MainTasksDiv{
+    
+    background-color: white;
+    width: 1100px;
+    height: 555px;
+    float: right;
+}
+
+.filterby{
+    
+    margin-left: 20px;
+    margin-right: 50px;
+    font-family: sans-serif;
+}
+
+.OTHERTEXT{
+    
+    font-size: 12px;
+}
+
+.UPCOMING{
+    
+    font-family: sans-serif;
+    color: #008392;
+    margin-left: 10px;
+    float: left;
+}
+
+.FATASK{
+    
+    font-family: sans-serif;
+    border: 1px solid lightgray;
+    margin-left: 30px;
+    border-radius: 5px;
+    width: 1000px;
+}
+
+.SATASK{
+    
+    font-family: sans-serif;
+    border: 1px solid lightgray;
+    margin-left: 30px;
+    border-radius: 5px;
+    width: 1000px;
+}
+
+.LETASK{
+    
+    font-family: sans-serif;
+    border: 1px solid lightgray;
+    margin-left: 30px;
+    border-radius: 5px;
+    width: 1000px;
+}
+
+.OVERDUE{
+    
+    font-family: sans-serif;
+    color: #008392;
+    margin-left: 10px;
+    float: left;
+}
+
+.NOTASKSOVER{
+    
+    margin-top: 20px;
+    margin-left: 50px;
+    font-family: sans-serif;
+    font-size: 15px;
+}
